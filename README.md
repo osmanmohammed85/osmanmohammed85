@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @osmanmohammed85
-- 👀 I’m interested in ...flutter and cloud
+- 👀 I’m interested in ...flutter, database data modelling and cloud
 - 🌱 I’m currently learning ...flutter
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...osman.mohammed85@outlook.com
